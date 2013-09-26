@@ -1,0 +1,639 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+<title>Engadget RSS Feed</title>
+<link>http://www.engadget.com</link>
+<description>Engadget</description>
+<image>
+<url>http://www.blogsmithmedia.com/www.engadget.com/media/feedlogo.gif</url>
+<title>Engadget</title>
+<link>http://www.engadget.com</link>
+</image>
+<language>en-us</language>
+<copyright>Copyright 2013 AOL Inc. The contents of this feed are available for non-commercial use only.</copyright>
+<generator>Blogsmith http://www.blogsmith.com/</generator>
+
+<item>
+<title><![CDATA[FCC listing exposes new Roku Streaming Stick remote with audio out]]></title>
+<link>http://www.engadget.com/2013/06/27/roku-streaming-stick-remote-audio-out/?utm_medium=feed&amp;utm_source=Feed_Classic&amp;utm_campaign=Engadget</link>
+<guid isPermaLink="false">http://www.engadget.com/2013/06/27/roku-streaming-stick-remote-audio-out/</guid>
+<comments>http://www.engadget.com/2013/06/27/roku-streaming-stick-remote-audio-out/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget#comments</comments>
+<description>
+<![CDATA[
+<p><a href="http://www.engadget.com/2013/06/27/roku-streaming-stick-remote-audio-out/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget"><img alt="DNP FCC listing exposes new Roku Stick remote, brings parity with Roku 3 remote" data-src-height="277" data-src-width="619" src="http://www.blogcdn.com/www.engadget.com/media/2013/06/rokustreamingstickremoteinnards.png" /></a></p>
+
+<p><a href="http://www.engadget.com/2013/03/05/roku-3-goes-on-sale-tomorrow-for-99-with-upgraded-cpu-and-a-new/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">Roku</a> introduced a new remote with audio out for its third generation player, and an FCC filing reveals its <a href="http://www.engadget.com/2012/01/10/roku-streaming-stick-hands-on/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">Streaming Stick</a> will get the same treatment soon. The new remote adds a headphone out and... that's it, since the Streaming Stick already used WiFi Direct for communication and control. Users shouldn't notice much difference however, <a href="http://www.engadget.com/2013/04/03/dnp-roku-3-review/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">in our review</a> the batteries lasted for hours even with headphones plugged in. How does this revised unit align with Roku's plans to become the <a href="http://www.engadget.com/2013/05/30/roku-takes-60-million-in-funding/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">front end for your TV</a>? We're not sure yet, but it appears the dongle is still a part of its plans.</p>
+<p>Filed under: <a href="http://www.engadget.com/category/home-entertainment/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget" rel="tag">Home Entertainment</a>, <a href="http://www.engadget.com/category/hd/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget" rel="tag">HD</a></p>
+<p><strong><a href="http://www.engadget.com/2013/06/27/roku-streaming-stick-remote-audio-out/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget#comments">Comments</a></strong></p>
+<p><strong>Via:</strong> <a target="_blank" href="http://www.zatznotfunny.com/2013-06/roku-streaming-stick-remote-updated-for-audio-output/">Zatz Not Funny</a><!--//--></p>
+<p><strong>Source:</strong> <a target="_blank" href="https://apps.fcc.gov/eas/GetApplicationAttachment.html?id=2001048">Federal Communications Commission</a><!--//--></p>
+]]>
+</description>
+<category>hdpostcross</category><category>roku</category><category>roku3</category><category>RokuStreamingStick</category>
+
+<dc:creator><![CDATA[Timothy J. Seppala]]></dc:creator>
+<pubDate>Thu, 27 Jun 2013 07:39:00 -0400</pubDate>
+<dc:identifier>21|20640574</dc:identifier>
+
+</item>
+
+<item>
+<title><![CDATA[Digg adds reader to its iOS app, offers instant Google Reader import]]></title>
+<link>http://www.engadget.com/2013/06/27/digg-reader-ios-app/?utm_medium=feed&amp;utm_source=Feed_Classic&amp;utm_campaign=Engadget</link>
+<guid isPermaLink="false">http://www.engadget.com/2013/06/27/digg-reader-ios-app/</guid>
+<comments>http://www.engadget.com/2013/06/27/digg-reader-ios-app/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget#comments</comments>
+<description>
+<![CDATA[
+<p class="image-container" style="text-align: center;"><a href="http://www.engadget.com/2013/06/27/digg-reader-ios-app/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget"><img alt="Image" data-src-height="340" data-src-width="620" src="http://www.blogcdn.com/www.engadget.com/media/2013/06/digg.jpg" /></a></p>
+
+<p>There's more than a few <a href="http://www.engadget.com/2013/06/19/feedly-cloud-platform/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">enterprises</a> that have an eye on filling the <a href="http://www.engadget.com/2013/06/25/as-google-reader-dies-reading-struggles-to-be-reborn/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">void</a> in the RSS market left by Google's <a href="http://www.engadget.com/2013/03/13/google-reader-shut-down-spring-cleaning/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">curious withdrawal</a>. <a href="http://www.engadget.com/2013/03/14/digg-building-google-reader-replacement-same-api/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">Digg</a> is one of those hoping to woo Mountain View's refugees and has updated its iOS app to incorporate its experimental <a href="http://www.engadget.com/2013/06/17/digg-rss-reader-june-26/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">new service</a>, which offers direct imports from Google Reader. It's available from the App Store right now, but we'd be remiss if we didn't mention that there are other, ahem, <em>AOL-sanctioned</em>, <a href="http://www.engadget.com/2013/06/24/aol-reader-hands-on/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">alternatives</a>.</p>
+<p>Filed under: <a href="http://www.engadget.com/category/internet/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget" rel="tag">Internet</a>, <a href="http://www.engadget.com/category/apple/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget" rel="tag">Apple</a>, <a href="http://www.engadget.com/category/google/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget" rel="tag">Google</a></p>
+<p><strong><a href="http://www.engadget.com/2013/06/27/digg-reader-ios-app/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget#comments">Comments</a></strong></p>
+<p><strong>Via:</strong> <a target="_blank" href="http://thenextweb.com/apps/2013/06/27/digg-updates-its-ios-app-to-bring-its-digg-reader-rss-service-to-mobile/">The Next Web</a><!--//--></p>
+<p><strong>Source:</strong> <a target="_blank" href="https://itunes.apple.com/gb/app/id362872995?mt=8&amp;affId=2064962">App Store</a><!--//--></p>
+]]>
+</description>
+<category>App</category><category>apple</category><category>Digg</category><category>google</category><category>Google Reader</category><category>GoogleReader</category><category>iOS</category><category>Reader</category>
+
+<dc:creator><![CDATA[Daniel Cooper]]></dc:creator>
+<pubDate>Thu, 27 Jun 2013 06:39:00 -0400</pubDate>
+<dc:identifier>21|20640716</dc:identifier>
+
+</item>
+
+<item>
+<title><![CDATA[DuPont and PMA team up to embed Powermat wireless charging in Corian countertops]]></title>
+<link>http://www.engadget.com/2013/06/27/dupont-joins-pma/?utm_medium=feed&amp;utm_source=Feed_Classic&amp;utm_campaign=Engadget</link>
+<guid isPermaLink="false">http://www.engadget.com/2013/06/27/dupont-joins-pma/</guid>
+<comments>http://www.engadget.com/2013/06/27/dupont-joins-pma/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget#comments</comments>
+<description>
+<![CDATA[
+<p class="p1 image-container" style="text-align: center;"><a href="http://www.engadget.com/2013/06/27/dupont-joins-pma/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget"><img alt="DuPont and PMA team up to embed Powermat wireless charging in Corian countertops" data-src-height="398" data-src-width="619" src="http://www.blogcdn.com/www.engadget.com/media/2013/06/counteriphone5.jpg" /></a></p>
+
+<p class="p1"><a href="http://www.engadget.com/tag/DuPont?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">DuPont's</a> managed to work its way into just about every home and place of business here in the US of A, but despite this nationwide proliferation, we haven't seen the Delaware-based chemicals giant making waves in the consumer electronics space. But with home wraps, plastics and <a href="http://www.engadget.com/2007/08/18/kevlar-lined-clothing-a-hot-commodity-in-london/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">body armor</a> on lockdown, it's as good a time as any to venture into CE. Through a partnership with the <a href="http://www.engadget.com/2013/04/17/att-pma-wireless-charging/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">Power Matters Alliance</a> (PMA), the company will soon begin embedding Powermat's wireless charging tech within its Corian solid surface, a synthetic granite alternative often used for countertops and installed everywhere from kitchens and meeting rooms to hospitals and research labs. As a notable first step, DuPont has joined the PMA, and could soon be playing a key role in charging up your gadgets on the go. We've seen Powermat demo its own tabletop charging concept at CES, but with DuPont now on board, it shouldn't be long before we begin to see seamless Corian installations <a href="http://www.engadget.com/2013/05/21/powermat-acquires-powerkiss/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">pop up</a> in <a href="http://www.engadget.com/2012/10/29/pma-starbucks-google-att/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">public spaces</a>, and perhaps even some homes.</p>
+<p>Filed under: <a href="http://www.engadget.com/category/wireless/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget" rel="tag">Wireless</a></p>
+<p><strong><a href="http://www.engadget.com/2013/06/27/dupont-joins-pma/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget#comments">Comments</a></strong></p>
+
+
+]]>
+</description>
+<category>dupont</category><category>exclusive</category><category>pma</category><category>powermat</category><category>PowerMattersAlliance</category>
+
+<dc:creator><![CDATA[Zach Honig]]></dc:creator>
+<pubDate>Thu, 27 Jun 2013 06:00:00 -0400</pubDate>
+<dc:identifier>21|20636897</dc:identifier>
+
+</item>
+
+<item>
+<title><![CDATA[Bing Translator comes to Twitter's official Windows Phone app]]></title>
+<link>http://www.engadget.com/2013/06/27/twitter-windows-phone-translate/?utm_medium=feed&amp;utm_source=Feed_Classic&amp;utm_campaign=Engadget</link>
+<guid isPermaLink="false">http://www.engadget.com/2013/06/27/twitter-windows-phone-translate/</guid>
+<comments>http://www.engadget.com/2013/06/27/twitter-windows-phone-translate/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget#comments</comments>
+<description>
+<![CDATA[
+<p><a href="http://www.engadget.com/2013/06/27/twitter-windows-phone-translate/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget"><img alt="Automatic translation comes to Twitter's official Windows Phone app" data-src-height="443" data-src-width="619" src="http://www.blogcdn.com/www.engadget.com/media/2013/06/trans.png" /></a></p>
+
+<p>It's not every day we see Windows Phone being used to launch a major new feature, but Twitter has done just that. An update to its official app has just enabled automatic translation if you happen to be reading a person's tweet that isn't in English. The tweet isn't translated in your actual timeline; instead you have to manually click through, but that's nothing to complain about. <a href="http://www.engadget.com/2013/06/26/microsoft-launches-bing-platform-for-developers/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">Microsoft's Bing Platform</a>, also released yesterday, is likely being used as the backend, so this feature could very well come to Twitter's official apps on Android and iOS (not to mention a whole range of other apps) in the near future.<div class="postgallery"><p><strong>Gallery: <a href="http://www.engadget.com/photos/bing-translator-in-twitter-for-windows-phone/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">Bing Translator in Twitter for Windows Phone</a></strong></p><a href="http://www.engadget.com/photos/bing-translator-in-twitter-for-windows-phone/5994416?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget"><img src="http://www.blogcdn.com/www.engadget.com/media/2013/06/japanese_thumbnail.jpg" alt="" title="" /></a><a href="http://www.engadget.com/photos/bing-translator-in-twitter-for-windows-phone/5994420?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget"><img src="http://www.blogcdn.com/www.engadget.com/media/2013/06/french_thumbnail.jpg" alt="" title="" /></a><a href="http://www.engadget.com/photos/bing-translator-in-twitter-for-windows-phone/5994417?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget"><img src="http://www.blogcdn.com/www.engadget.com/media/2013/06/german_thumbnail.jpg" alt="" title="" /></a><a href="http://www.engadget.com/photos/bing-translator-in-twitter-for-windows-phone/5994418?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget"><img src="http://www.blogcdn.com/www.engadget.com/media/2013/06/spanish_thumbnail.jpg" alt="" title="" /></a><a href="http://www.engadget.com/photos/bing-translator-in-twitter-for-windows-phone/5994419?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget"><img src="http://www.blogcdn.com/www.engadget.com/media/2013/06/chinese_thumbnail.jpg" alt="" title="" /></a></div></p>
+<p>Filed under: <a href="http://www.engadget.com/category/software/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget" rel="tag">Software</a>, <a href="http://www.engadget.com/category/microsoft/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget" rel="tag">Microsoft</a></p>
+<p><strong><a href="http://www.engadget.com/2013/06/27/twitter-windows-phone-translate/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget#comments">Comments</a></strong></p>
+<p><strong>Via:</strong> <a href="http://thenokiablog.com/2013/06/26/twitter-translation/" target="_blank">The Nokia Blog</a><!--//--></p>
+<p><strong>Source:</strong> <a href="http://www.windowsphone.com/en-us/store/app/twitter/0b792c7c-14dc-df11-a844-00237de2db9e" target="_blank">Twitter (Windows Phone Store)</a><!--//--></p>
+]]>
+</description>
+<category>Bing</category><category>microsoft</category><category>Twitter</category><category>Windows Phone</category><category>WindowsPhone</category>
+
+<dc:creator><![CDATA[Stefan Constantinescu]]></dc:creator>
+<pubDate>Thu, 27 Jun 2013 05:29:00 -0400</pubDate>
+<dc:identifier>21|20640657</dc:identifier>
+
+</item>
+
+<item>
+<title><![CDATA[WSJ outs Apple's iTunes Radio terms, says many are 'more generous' than Pandora's]]></title>
+<link>http://www.engadget.com/2013/06/27/wsj-outs-apples-itunes-radio-terms-for-labels/?utm_medium=feed&amp;utm_source=Feed_Classic&amp;utm_campaign=Engadget</link>
+<guid isPermaLink="false">http://www.engadget.com/2013/06/27/wsj-outs-apples-itunes-radio-terms-for-labels/</guid>
+<comments>http://www.engadget.com/2013/06/27/wsj-outs-apples-itunes-radio-terms-for-labels/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget#comments</comments>
+<description>
+<![CDATA[
+<p class="image-container" style="text-align: center;"><a href="http://www.engadget.com/2013/06/27/wsj-outs-apples-itunes-radio-terms-for-labels/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget"><img alt="WSJ Apple's iTunes Radio terms more generous to labels than Pandora" data-src-height="319" data-src-width="619" src="http://www.blogcdn.com/www.engadget.com/media/2013/06/apple-itunes-radio-terms-2013-06-27-01.jpg" /></a></p>
+
+<p>According to a document obtained by the <em>Wall Street Journal</em>, Apple will pay 0.13 cents and 15 percent of advertising revenue to major labels for every song played on <a href="http://www.engadget.com/2013/06/10/apples-debuts-music-streaming-service/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">iTunes Radio</a> in its first year, climbing to .14 cents and 19 percent in year two. In comparison, <a href="http://www.engadget.com/tag/pandora/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">Pandora</a> currently pays 0.12 cents per song, and <em>WSJ</em> added that Apple is offering publishers more than double Pandora's rate for royalties. There are some exclusions to Apple's offering, however: it won't need to pay for songs streamed for 20 seconds or less, those that are already in your iTunes library or certain promoted tracks. For its part, Pandora said that comparing the two is unfair, since varying features between the services could trigger royalty payments differently. It also addressed recent controversy about those royalties in a detailed blog post (see the More Coverage link after the break). In addition, insiders say that Apple's primary aim is to encourage listeners to buy more tracks on iTunes, in turn boosting hardware sales. Still, the new service will no doubt reap the benefits of Apples new <a href="http://www.engadget.com/2013/06/03/bloomberg-apple-iradio-iad/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">iAd</a> mobile advertising platform, so it's likely that Cupertino will have its cake and eat it, too.</p>
+<p>Filed under: <a href="http://www.engadget.com/category/internet/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget" rel="tag">Internet</a>, <a href="http://www.engadget.com/category/apple/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget" rel="tag">Apple</a></p>
+<p><strong><a href="http://www.engadget.com/2013/06/27/wsj-outs-apples-itunes-radio-terms-for-labels/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget#comments">Comments</a></strong></p>
+
+<p><strong>Source:</strong> <a href="http://blogs.wsj.com/digits/2013/06/26/apple-spells-out-itunes-radio-terms-for-record-labels" target="_blank">WSJ Digits</a><!--//--></p>
+]]>
+</description>
+<category>apple</category><category>iTunes</category><category>iTunesRadio</category><category>music</category><category>MusicStreaming</category><category>Radio</category><category>terms</category>
+
+<dc:creator><![CDATA[Steve Dent]]></dc:creator>
+<pubDate>Thu, 27 Jun 2013 05:05:00 -0400</pubDate>
+<dc:identifier>21|20640609</dc:identifier>
+
+</item>
+
+<item>
+<title><![CDATA[Engadget UK Giveaway: win one of five TonidoPlug personal cloud servers]]></title>
+<link>http://www.engadget.com/2013/06/27/tonido-uk-giveaway/?utm_medium=feed&amp;utm_source=Feed_Classic&amp;utm_campaign=Engadget</link>
+<guid isPermaLink="false">http://www.engadget.com/2013/06/27/tonido-uk-giveaway/</guid>
+<comments>http://www.engadget.com/2013/06/27/tonido-uk-giveaway/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget#comments</comments>
+<description>
+<![CDATA[
+<p class="image-container" style="text-align: center;"><a href="http://www.engadget.com/2013/06/27/tonido-uk-giveaway/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget"><img alt="Engadget UK Giveaway win one of five TonidoPlug personal cloud servers" data-src-height="334" data-src-width="620" src="http://www.blogcdn.com/www.engadget.com/media/2013/06/tonidogiveawaypic.jpg" /></a></p>
+
+<p>There's a whole plethora of places to keep your <a href="http://www.engadget.com/tag/cloudstorage/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">data online</a>, but without getting too political, there's no place like home, right? TonidoPlug is a tiny personal server that lets you access your images, photos and personal files wherever you are, without having to hand them over to someone else to look after. Not only is there software to mount it as a local drive -- a-la dropbox -- but it serves as a NAS device on your home network too. With the option to plug in USB drives, or add an internal SATA HDD, you won't need to pay a subscription, either. Best of all, we've got five to give away to some lucky UK readers. Please read the terms and conditions after the break to make sure you qualify. But if you do, -- be sure to enter, and good luck!</p>
+<p>Filed under: <a href="http://www.engadget.com/category/peripherals/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget" rel="tag">Peripherals</a>, <a href="http://www.engadget.com/category/internet/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget" rel="tag">Internet</a>, <a href="http://www.engadget.com/category/hd/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget" rel="tag">HD</a>, <a href="http://www.engadget.com/category/mobile/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget" rel="tag">Mobile</a>, <a href="http://www.engadget.com/category/alt/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget" rel="tag">Alt</a></p>
+<p><strong><a href="http://www.engadget.com/2013/06/27/tonido-uk-giveaway/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget#comments">Comments</a></strong></p>
+
+<p><strong>Source:</strong> <a href="http://www.tonidoplug.com/" target="_blank">Tonido</a><!--//--></p>
+]]>
+</description>
+<category>giveaway</category><category>hdpostcross</category><category>mobilepostcross</category><category>tonido</category><category>tonidoplug</category><category>ukgiftguide2011</category>
+
+<dc:creator><![CDATA[James Trew]]></dc:creator>
+<pubDate>Thu, 27 Jun 2013 05:00:00 -0400</pubDate>
+<dc:identifier>21|20633856</dc:identifier>
+
+</item>
+
+<item>
+<title><![CDATA[Twitter update for BlackBerry brings image cards to older phones]]></title>
+<link>http://www.engadget.com/2013/06/27/twitter-update-for-blackberry-brings-image-cards-to-older-phones/?utm_medium=feed&amp;utm_source=Feed_Classic&amp;utm_campaign=Engadget</link>
+<guid isPermaLink="false">http://www.engadget.com/2013/06/27/twitter-update-for-blackberry-brings-image-cards-to-older-phones/</guid>
+<comments>http://www.engadget.com/2013/06/27/twitter-update-for-blackberry-brings-image-cards-to-older-phones/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget#comments</comments>
+<description>
+<![CDATA[
+<p class="image-container" style="text-align: center;"><a href="http://www.engadget.com/2013/06/27/twitter-update-for-blackberry-brings-image-cards-to-older-phones/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget"><img alt="Twitter update for BlackBerry brings photo cards to older phones" data-src-height="410" data-src-width="550" src="http://www.blogcdn.com/www.engadget.com/media/2013/06/twitter-4-2-blackberry-classic.jpg" /></a></p>
+
+<p>Not all BlackBerry owners are ready for <a href="http://www.engadget.com/2013/04/23/blackberry-q10-review/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">new</a> <a href="http://www.engadget.com/2013/01/30/blackberry-z10-review/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">phones</a> just yet, but many of them still want to browse their Twitter feeds as efficiently as possible. A Twitter 4.2 update launching today should keep those users satisfied: the release brings image cards to BlackBerry OS 5 and up, letting those on older devices peek at photos in the timeline. The upgraded version also populates that timeline with more details about the tweets themselves, and it suggests people to follow when looking at profiles. If those additions are enough to fight off the urge for a hardware upgrade, the new Twitter app is available at the source link.</p>
+<p>Filed under: <a href="http://www.engadget.com/category/cellphones/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget" rel="tag">Cellphones</a>, <a href="http://www.engadget.com/category/internet/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget" rel="tag">Internet</a>, <a href="http://www.engadget.com/category/mobile/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget" rel="tag">Mobile</a>, <a href="http://www.engadget.com/category/blackberry/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget" rel="tag">Blackberry</a></p>
+<p><strong><a href="http://www.engadget.com/2013/06/27/twitter-update-for-blackberry-brings-image-cards-to-older-phones/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget#comments">Comments</a></strong></p>
+<p><strong>Via:</strong> <a href="http://blogs.blackberry.com/2013/06/blackberry-twitter-update-42/" target="_blank">Inside BlackBerry</a><!--//--></p>
+<p><strong>Source:</strong> <a href="http://appworld.blackberry.com/webstore/content/8160/" target="_blank">BlackBerry World</a><!--//--></p>
+]]>
+</description>
+<category>app</category><category>blackberry</category><category>blackberryos5.0</category><category>blackberryos7</category><category>internet</category><category>minipost</category><category>mobilepostcross</category><category>mobilepostmini</category><category>smartphone</category><category>SocialNetworking</category><category>twitter</category>
+
+<dc:creator><![CDATA[Jon Fingas]]></dc:creator>
+<pubDate>Thu, 27 Jun 2013 04:27:00 -0400</pubDate>
+<dc:identifier>21|20640222</dc:identifier>
+
+</item>
+
+<item>
+<title><![CDATA[HTC One launches in 'glamor red', arrives in the UK next month (update: pricing)]]></title>
+<link>http://www.engadget.com/2013/06/27/htc-one-red-version-uk-launch-date/?utm_medium=feed&amp;utm_source=Feed_Classic&amp;utm_campaign=Engadget</link>
+<guid isPermaLink="false">http://www.engadget.com/2013/06/27/htc-one-red-version-uk-launch-date/</guid>
+<comments>http://www.engadget.com/2013/06/27/htc-one-red-version-uk-launch-date/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget#comments</comments>
+<description>
+<![CDATA[
+<p class="image-container" style="text-align: center;"><a href="http://www.engadget.com/2013/06/27/htc-one-red-version-uk-launch-date/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget"><img alt="HTC one launches in 'glamor red', arrives in the UK next month" data-src-height="385" data-src-width="619" src="http://www.blogcdn.com/www.engadget.com/media/2013/06/onered.jpg" /></a></p>
+
+<p>Flush from launching in the US in a Google-heavy <a href="http://www.engadget.com/2013/06/26/htc-one-google-play-edition-hands-on-video/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">iteration</a>, HTC is rewarding its UK fans with a sultry "glamor red" option of the <a href="http://www.engadget.com/2013/03/12/htc-one-review/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">One</a> smartphone. It'll arrive at retailer Phones 4U in mid-July, although there's no specifics yet on storage (16 or 32GB?), or whether there will be any price difference between the new colorful hue and existing silver and black options.</p>
+
+<p><strong>Update:</strong> Phones4U has confirmed it'll be selling this boudoir of a phone starting at &pound;33 per month on contract.</p>
+<p>Filed under: <a href="http://www.engadget.com/category/cellphones/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget" rel="tag">Cellphones</a>, <a href="http://www.engadget.com/category/mobile/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget" rel="tag">Mobile</a>, <a href="http://www.engadget.com/category/htc/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget" rel="tag">HTC</a></p>
+<p><strong><a href="http://www.engadget.com/2013/06/27/htc-one-red-version-uk-launch-date/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget#comments">Comments</a></strong></p>
+
+
+]]>
+</description>
+<category>glamourred</category><category>htc</category><category>htcone</category><category>mobilepostcross</category><category>red</category>
+
+<dc:creator><![CDATA[Mat Smith]]></dc:creator>
+<pubDate>Thu, 27 Jun 2013 04:16:00 -0400</pubDate>
+<dc:identifier>21|20640667</dc:identifier>
+
+</item>
+
+<item>
+<title><![CDATA[British Airways teams up with Designworks for electronic bag tags that nab info from your smartphone]]></title>
+<link>http://www.engadget.com/2013/06/27/british-airways-designworks-electronic-bag-tag/?utm_medium=feed&amp;utm_source=Feed_Classic&amp;utm_campaign=Engadget</link>
+<guid isPermaLink="false">http://www.engadget.com/2013/06/27/british-airways-designworks-electronic-bag-tag/</guid>
+<comments>http://www.engadget.com/2013/06/27/british-airways-designworks-electronic-bag-tag/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget#comments</comments>
+<description>
+<![CDATA[
+<p class="image-container" style="text-align: center;"><a href="http://www.engadget.com/2013/06/27/british-airways-designworks-electronic-bag-tag/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget"><img alt="British Airways teams up with Designworks for electronic bag tags that nab info from your smartphone" data-src-height="339" data-src-width="620" src="http://www.blogcdn.com/www.engadget.com/media/2013/06/bapbt02240613-1372256403.jpg" /></a></p>
+
+<p>Tired of ripping off those old luggage tags after <a href="http://www.engadget.com/2013/06/16/spot-global-phone-review/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">a trip</a>? Well, those could be a thing of the past if all goes according to plan -- at least when <a href="http://www.engadget.com/2013/06/14/airbus-a350-maiden-flight/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">flying</a> British Airways. The airline cooked up an electronic bag tag that looks to discard the paper version with the help of the folks at Designworks. Once passengers have checked in, they simply need to hover a smartphone over the tag to beam (via NFC, we'd surmise) both <a href="http://www.engadget.com/2013/06/17/airbus-a350-cockpit-video-tour/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">flight info</a> and the requisite barcode to the tag's display. The idea behind the whole thing isn't only to keep the paper-changing to a minimum, but to also save precious time at the check-in counter. A live trial of the tagging gadget is planned, so we'll soon be able to see if the concept stands up to baggage handlers.</p>
+
+<p>[Thanks, Anonymous]</p>
+<p>Filed under: <a href="http://www.engadget.com/category/misc/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget" rel="tag">Misc</a></p>
+<p><strong><a href="http://www.engadget.com/2013/06/27/british-airways-designworks-electronic-bag-tag/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget#comments">Comments</a></strong></p>
+
+<p><strong>Source:</strong> <a href="http://designworksgroup.net/blog/posts/116#/blog/posts/116" target="_blank">Designworks</a><!--//--></p>
+]]>
+</description>
+<category>bagtag</category><category>britishairways</category><category>designworks</category><category>e-ink</category><category>luggage</category><category>nfc</category><category>travel</category>
+
+<dc:creator><![CDATA[Billy Steele]]></dc:creator>
+<pubDate>Thu, 27 Jun 2013 03:56:00 -0400</pubDate>
+<dc:identifier>21|20639858</dc:identifier>
+
+</item>
+
+<item>
+<title><![CDATA[Google Hangouts update for iOS brings clickable URLs and sound alerts]]></title>
+<link>http://www.engadget.com/2013/06/27/google-hangouts-v-1-1-1/?utm_medium=feed&amp;utm_source=Feed_Classic&amp;utm_campaign=Engadget</link>
+<guid isPermaLink="false">http://www.engadget.com/2013/06/27/google-hangouts-v-1-1-1/</guid>
+<comments>http://www.engadget.com/2013/06/27/google-hangouts-v-1-1-1/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget#comments</comments>
+<description>
+<![CDATA[
+<p class="image-container" style="text-align: center;"><a href="http://www.engadget.com/2013/06/27/google-hangouts-v-1-1-1/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget"><img alt="" src="http://www.blogcdn.com/www.engadget.com/media/2013/05/google-hangouts-hands-on-1368648570.jpg" /></a></p>
+
+<p><a href="http://www.engadget.com/2013/05/15/google-hangouts-app-hands-on/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">Hangouts</a> for iOS may have <a href="http://www.engadget.com/2013/05/28/google-update-for-ios-focuses-on-photo-enhancements-adds-stand/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">gotten off to a rocky start</a> -- evidenced by its poor ratings in the App Store -- but it seems that Google is looking to right its wrongs in its first major update to the messaging app. Most significantly, the new version features clickable links in messages and in-app sound notifications, along with official support for iOS 6. Any badge count issues have been fixed, and you'll now also be able to invite friends to join Hangouts via SMS. Add all these with a number of bug fixes, and they bring a good reason to give Hangouts a whirl... perhaps for a second time.</p>
+
+<p><strong><a href="http://www.engadget.com/2013/06/27/google-hangouts-v-1-1-1/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget#comments">Comments</a></strong></p>
+<p><strong>Via:</strong> <a href="https://plus.google.com/+FrankPetterson/posts" target="_blank">Frank Petterson (Google+)</a><!--//--></p>
+<p><strong>Source:</strong> <a href="https://itunes.apple.com/us/app/hangouts/id643496868?mt=8" target="_blank">Hangouts (App Store)</a><!--//--></p>
+]]>
+</description>
+<category>app</category><category>google</category><category>GooglePlus</category><category>hangouts</category><category>iOS</category><category>iPad</category><category>iPhone</category>
+
+<dc:creator><![CDATA[Mariella Moon]]></dc:creator>
+<pubDate>Thu, 27 Jun 2013 03:28:00 -0400</pubDate>
+<dc:identifier>21|20640561</dc:identifier>
+
+</item>
+
+<item>
+<title><![CDATA[Amazon AutoRip arrives in the UK, offers free MP3 versions for over 350,000 CDs]]></title>
+<link>http://www.engadget.com/2013/06/27/amazon-autorip-uk/?utm_medium=feed&amp;utm_source=Feed_Classic&amp;utm_campaign=Engadget</link>
+<guid isPermaLink="false">http://www.engadget.com/2013/06/27/amazon-autorip-uk/</guid>
+<comments>http://www.engadget.com/2013/06/27/amazon-autorip-uk/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget#comments</comments>
+<description>
+<![CDATA[
+<p class="image-container" style="text-align: center;"><img alt="Amazon AutoRip arrives in the UK, offers free MP3 versions for over 350,000 CDs" data-src-height="340" data-src-width="620" src="http://www.blogcdn.com/www.engadget.com/media/2013/06/autorip-2013-06-27-01.jpg" /></p>
+
+<p>American Amazon shoppers have been offered free MP3 versions of their back catalog of music purchases <a href="http://www.engadget.com/2013/01/10/amazon-autorip-free-digital-versions/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">since January</a> and now Brits are getting the same deal, with <a href="http://www.engadget.com/2013/04/03/amazons-autorip/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">vinyl tracks</a> thrown in for good measure. Any CDs or vinyl (and even cassettes!) bought since 1999 will now be added to Amazon UK account owners' <a href="http://www.engadget.com/2013/05/13/amazon-cloud-player-for-pc-now-up-of-download/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">Cloud Player</a>, free and automatically. There are now More than 350,000 albums that are already AutoRip-compatible, and Amazon's own music player ensures you should be able to play the 256 Kbps MP3 tracks on practically any device that can browse the web. The full release is right after the break.</p>
+<p>Filed under: <a href="http://www.engadget.com/category/internet/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget" rel="tag">Internet</a>, <a href="http://www.engadget.com/category/amazon/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget" rel="tag">Amazon</a></p>
+<p><strong><a href="http://www.engadget.com/2013/06/27/amazon-autorip-uk/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget#comments">Comments</a></strong></p>
+
+
+]]>
+</description>
+<category>amazon</category><category>autorip</category><category>mp3</category><category>uk</category><category>vinyl</category>
+
+<dc:creator><![CDATA[Mat Smith]]></dc:creator>
+<pubDate>Thu, 27 Jun 2013 03:00:00 -0400</pubDate>
+<dc:identifier>21|20640616</dc:identifier>
+
+</item>
+
+<item>
+<title><![CDATA[Project Anarchy, Havok's mobile game development suite now available at no cost]]></title>
+<link>http://www.engadget.com/2013/06/27/havok-project-anarchy-free/?utm_medium=feed&amp;utm_source=Feed_Classic&amp;utm_campaign=Engadget</link>
+<guid isPermaLink="false">http://www.engadget.com/2013/06/27/havok-project-anarchy-free/</guid>
+<comments>http://www.engadget.com/2013/06/27/havok-project-anarchy-free/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget#comments</comments>
+<description>
+<![CDATA[
+<p class="image-container" style="text-align: center;"><a href="http://www.engadget.com/2013/06/27/havok-project-anarchy-free/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget"><img alt="" src="http://www.blogcdn.com/www.engadget.com/media/2013/03/havok.jpg" /></a></p>
+
+<p><a href="http://www.engadget.com/tag/Havok/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">Havok</a> -- the physics middleware engine used by almost <em>every </em>big console and PC game -- announced its start-to-finish mobile game development suite will be available at no cost to developers. <a href="http://www.engadget.com/2013/03/26/havok-project-anarchy-mobile-engine/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">Project Anarchy</a> has tools for everything: visuals, physics, artificial intelligence and animation. We say "no cost" instead of free for a reason: Havok expects a few things out of its users in return. It wants to co-market some finished games and for clients to become part of its development community. Currently, that dev community includes folks programming for iOS, Android and Tizen. Microsofties may not be left out, however, as Havok has "flexible business models" for Windows Phone if you ping its sales team. Full details in the links below.</p>
+<p>Filed under: <a href="http://www.engadget.com/category/cellphones/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget" rel="tag">Cellphones</a>, <a href="http://www.engadget.com/category/gaming/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget" rel="tag">Gaming</a>, <a href="http://www.engadget.com/category/mobile/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget" rel="tag">Mobile</a></p>
+<p><strong><a href="http://www.engadget.com/2013/06/27/havok-project-anarchy-free/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget#comments">Comments</a></strong></p>
+
+<p><strong>Source:</strong> <a target="_blank" href="http://www.projectanarchy.com/news/havok%E2%84%A2-releases-project-anarchy-completely-free">Project Anarchy</a><!--//--></p>
+]]>
+</description>
+<category>android</category><category>developer</category><category>havok</category><category>IOS</category><category>mobilepostcross</category><category>projectanarchy</category><category>Tizen</category>
+
+<dc:creator><![CDATA[Timothy J. Seppala]]></dc:creator>
+<pubDate>Thu, 27 Jun 2013 02:02:00 -0400</pubDate>
+<dc:identifier>21|20640392</dc:identifier>
+
+</item>
+
+<item>
+<title><![CDATA[Sony posts PS3 4.46 firmware update, instructions to fix consoles busted by 4.45]]></title>
+<link>http://www.engadget.com/2013/06/27/sony-ps3-4.46-update-fix/?utm_medium=feed&amp;utm_source=Feed_Classic&amp;utm_campaign=Engadget</link>
+<guid isPermaLink="false">http://www.engadget.com/2013/06/27/sony-ps3-4.46-update-fix/</guid>
+<comments>http://www.engadget.com/2013/06/27/sony-ps3-4.46-update-fix/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget#comments</comments>
+<description>
+<![CDATA[
+<p class="image-container" style="text-align: center;"><a href="http://www.engadget.com/2013/06/27/sony-ps3-4.46-update-fix/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget"><img alt="" src="http://www.blogcdn.com/www.engadget.com/media/2009/08/ps3-slim-review-2009-08-27_08-25-09-rm-eng600.jpg" /></a></p>
+
+<p>After the 4.45 firmware update knocked some PlayStation 3s out of commission last week, Sony has fulfilled its <a href="http://www.engadget.com/2013/06/21/playstation-3-firmware-update/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">promise</a> of a fixed version. 4.46 is now available to download, while a series of steps has been posted to the support site to walk users through updating any consoles that <a href="http://www.engadget.com/2013/06/18/ps3-users-report-4-45-update-locks-up-systems-may-be-tied-to-la/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">installed 4.45 and then failed to reboot</a>. Additionally, for users that successfully installed 4.45 and later complained of NAT and "IP  fragment issues," a post on the support forum confirms that has been fixed as well. Owners of frozen consoles will need a USB memory stick with at least 168MB of space, although certain older models can also use SD, Memory Stick or Compact Flash cards. There's still no word on exactly what went wrong, but for instructions on how to configure the flash storage and reboot into safe mode so you can start gaming again, just hit the source link below.</p>
+<p>Filed under: <a href="http://www.engadget.com/category/gaming/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget" rel="tag">Gaming</a>, <a href="http://www.engadget.com/category/hd/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget" rel="tag">HD</a>, <a href="http://www.engadget.com/category/sony/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget" rel="tag">Sony</a></p>
+<p><strong><a href="http://www.engadget.com/2013/06/27/sony-ps3-4.46-update-fix/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget#comments">Comments</a></strong></p>
+<p><strong>Via:</strong> <a target="_blank" href="https://twitter.com/playstation/status/350113037459521537">@PlayStation (Twitter)</a><!--//--></p>
+<p><strong>Source:</strong> <a target="_blank" href="https://support.us.playstation.com/app/answers/detail/a_id/4984">PlayStation Support</a><!--//--></p>
+]]>
+</description>
+<category>4.45</category><category>4.46</category><category>firmware</category><category>hdpostcross</category><category>playstation3</category><category>ps3</category><category>sony</category><category>update</category>
+
+<dc:creator><![CDATA[Richard Lawler]]></dc:creator>
+<pubDate>Thu, 27 Jun 2013 00:58:00 -0400</pubDate>
+<dc:identifier>21|20640602</dc:identifier>
+
+</item>
+
+<item>
+<title><![CDATA[Drayson Racing sets electric land speed record at 204.2MPH (video)]]></title>
+<link>http://www.engadget.com/2013/06/27/drayson-racing-sets-electric-land-speed-record-at-204mph/?utm_medium=feed&amp;utm_source=Feed_Classic&amp;utm_campaign=Engadget</link>
+<guid isPermaLink="false">http://www.engadget.com/2013/06/27/drayson-racing-sets-electric-land-speed-record-at-204mph/</guid>
+<comments>http://www.engadget.com/2013/06/27/drayson-racing-sets-electric-land-speed-record-at-204mph/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget#comments</comments>
+<description>
+<![CDATA[
+<p class="image-container" style="text-align: center;"><a href="http://www.engadget.com/2013/06/27/drayson-racing-sets-electric-land-speed-record-at-204mph/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget"><img alt="Drayson Racing sets electric land speed record at 204MPH" data-src-height="340" data-src-width="620" src="http://www.blogcdn.com/www.engadget.com/media/2013/06/drayson-racing-lola-b12-69-ev.jpg" /></a></p>
+
+<p>Nissan's <a href="http://www.engadget.com/2013/06/21/nissan-shows-off-185-mph-electric-hybrid-prototype/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">ZEOD RC</a> may sound fast at 186MPH, but it's a slow poke next to Drayson Racing's <a href="http://www.engadget.com/2012/07/08/drayson-racing-b12-69ev-sets-new-goodwood-record/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">B12/69EV</a>. The modified Le Mans car just broke the <a href="http://www.engadget.com/2011/04/29/formula-1-cars-set-to-go-all-electric-in-the-pit-lane-from-2013/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">FIA's</a> land speed record, hitting 204.2MPH on a course at the former RAF Elvington base in Yorkshire. While Drayson is quick to admit that the 850HP racer is unusual, it sees the project as groundwork for both a 2015 <a href="http://www.engadget.com/2012/12/02/rome-to-bring-formula-e-to-europe/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">Formula E</a> car and technologies that could filter down to regular vehicles. The speed record also gives electric racing more credibility at a crucial moment -- when EVs are just starting to rival gas-powered counterparts <a href="http://www.engadget.com/2013/06/07/mercedes-benz-sls-amg-electric-drive-breaks-nurburgring-record/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">on the track</a>, any leap in performance can help.</p>
+<p>Filed under: <a href="http://www.engadget.com/category/transportation/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget" rel="tag">Transportation</a></p>
+<p><strong><a href="http://www.engadget.com/2013/06/27/drayson-racing-sets-electric-land-speed-record-at-204mph/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget#comments">Comments</a></strong></p>
+<p><strong>Via:</strong> <a href="http://www.pocket-lint.com/news/122008-new-electric-car-world-speed-record-set-by-drayson-racing-204-2-mph-on-batteries" target="_blank">Pocket-lint</a><!--//--></p>
+<p><strong>Source:</strong> <a href="http://www.bbc.co.uk/news/technology-23051252" target="_blank">BBC</a><!--//-->, <a href="http://www.draysonracingtechnologies.com/news_article.html?Drayson-Racing-sets-a-new-FIA-World-Land-Speed-record-37" target="_blank">Drayson Racing Technologies</a><!--//--></p>
+]]>
+</description>
+<category>draysonracing</category><category>electriccar</category><category>ElectricVehicle</category><category>ev</category><category>fia</category><category>lola</category><category>lolab12</category><category>Racing</category><category>record</category><category>transportation</category><category>video</category>
+
+<dc:creator><![CDATA[Jon Fingas]]></dc:creator>
+<pubDate>Thu, 27 Jun 2013 00:51:00 -0400</pubDate>
+<dc:identifier>21|20639652</dc:identifier>
+
+</item>
+
+<item>
+<title><![CDATA[Leef's Bridge USB flash drive lets you share files between your smartphone and computer]]></title>
+<link>http://www.engadget.com/2013/06/27/leef-bridge-android-pc-mac-usb/?utm_medium=feed&amp;utm_source=Feed_Classic&amp;utm_campaign=Engadget</link>
+<guid isPermaLink="false">http://www.engadget.com/2013/06/27/leef-bridge-android-pc-mac-usb/</guid>
+<comments>http://www.engadget.com/2013/06/27/leef-bridge-android-pc-mac-usb/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget#comments</comments>
+<description>
+<![CDATA[
+<p class="image-container" style="text-align: center;"><a href="http://www.engadget.com/2013/06/27/leef-bridge-android-pc-mac-usb/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget"><img alt="DNP Leef USB" data-src-height="326" data-src-width="619" src="http://www.blogcdn.com/www.engadget.com/media/2013/06/leef-bridge.jpg" /></a></p>
+
+<p>Sharing files between devices using <a href="http://www.engadget.com/2013/02/12/dropbox-for-teams-adds-an-admin-console/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">the cloud</a> is fine, but California firm Leef Technology believes it has a more direct approach: a USB key. Aptly named Bridge, the flash drive lets you copy files from any Android 4.0 or higher device <a href="http://www.engadget.com/2013/04/24/samsung-galaxy-s-4-review/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">with a micro-USB connector</a>, then transfer them to your Mac or PC by popping out the larger end. It's similar to the micro-USB OTG dongles <a href="http://www.engadget.com/2013/06/09/pqi-connect-micro-usb-otg-drive/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">we've seen at Computex</a> earlier this year, despite the difference in design. You can nab the double-ended peripheral in either 16GB ($18) or 32GB ($28) from Amazon or Leef's website (at the source), and a 64GB GB version will be out in July. Who knows -- maybe that'll finally put an end to the <a href="http://www.engadget.com/2012/12/17/cat-car/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">cat video</a> and selfie clutter on your cloud service.</p>
+<p>Filed under: <a href="http://www.engadget.com/category/peripherals/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget" rel="tag">Peripherals</a></p>
+<p><strong><a href="http://www.engadget.com/2013/06/27/leef-bridge-android-pc-mac-usb/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget#comments">Comments</a></strong></p>
+
+<p><strong>Source:</strong> <a href="http://www.2leef.com/store/product/bridge-black-black/" target="_blank">Leef</a><!--//--></p>
+]]>
+</description>
+<category>android</category><category>bridge</category><category>file-sharing</category><category>leef</category><category>micro-USB</category><category>otg</category><category>usb</category><category>video</category>
+
+<dc:creator><![CDATA[Mariella Moon]]></dc:creator>
+<pubDate>Thu, 27 Jun 2013 00:27:00 -0400</pubDate>
+<dc:identifier>21|20636971</dc:identifier>
+
+</item>
+
+<item>
+<title><![CDATA[Sony expands high-end Cyber-shot lineup with RX100M2, full-frame RX1R (hands-on)]]></title>
+<link>http://www.engadget.com/2013/06/27/sony-rx100m2-rx1-hands-on/?utm_medium=feed&amp;utm_source=Feed_Classic&amp;utm_campaign=Engadget</link>
+<guid isPermaLink="false">http://www.engadget.com/2013/06/27/sony-rx100m2-rx1-hands-on/</guid>
+<comments>http://www.engadget.com/2013/06/27/sony-rx100m2-rx1-hands-on/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget#comments</comments>
+<description>
+<![CDATA[
+<p class="p1 image-container" style="text-align: center;"><a href="http://www.engadget.com/2013/06/27/sony-rx100m2-rx1-hands-on/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget"><img alt="Sony expands highend Cybershot lineup with RX100M2, fullframe RX1R handson" data-src-height="340" data-src-width="620" src="http://www.blogcdn.com/www.engadget.com/media/2013/06/sonydsc04555.jpg" /></a></p>
+
+<p class="p1">Sony's brilliant <a href="http://www.engadget.com/2012/06/06/sony-cyber-shot-dsc-rx100/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">RX100</a> and <a href="http://www.engadget.com/2012/10/09/sony-cyber-shot-rx1-sample-images-video/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">RX1</a> advanced point-and-shoots will live to see another day. Instead of replacing these two <a href="http://www.engadget.com/2013/02/17/irl-sony-cyber-shot-dsc-rx100-rx1/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">well-received pocket cams</a>, the company has opted to expand the upper end of its <a href="http://www.engadget.com/tag/Cybershot/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">Cyber-shot</a> lineup, adding two very compelling new models. First up is the RX1R, a full-frame compact that'll retail for $2,799, the same price last year's model still commands today. In fact, it's nearly identical to 2012's flavor, with the exception of a redesigned sensor, which drops the optical low-pass filter in the interest of sharper captures. Of course, without that component, the camera is susceptible to moire and false color issues, so the RX1R is a better fit for landscape photographers than portrait shooters or photojournalists. It also sports Triluminous Color output through the HDMI port, for enhanced visuals on select HDTVs.</p>
+
+<p class="p1">The vast majority of shooters are going to be much more excited about the Cyber-shot RX100M2, though. This "Mark II" variant of the RX100 borrows a few features from Sony's NEX line, which is never a bad thing. Looking at the camera, you'll first notice the 3-inch 1.3M-dot tiltable LCD, which can flip 84 degrees upward and 45 degrees downward. There's also a Multi Interface Shoe for adding on accessories like a microphone, OLED EVF or external flash. Additionally, the USB port is now a Multi Interface Terminal, so it'll work with the RM-VPR1 remote, and Sony added WiFi, NFC, and Triluminous Color output through the HDMI connector. On the imaging front, there's a brand new 1-inch BSI CMOS sensor, boosting sensitivity to the tune of one full stop (we're told ISO 3200 shots are comparable to ISO 1600 on the RX100). The top sensitivity also jumps from ISO 6400 to 12,800, which is pretty fantastic for a point-and-shoot.</p>
+
+<p class="p1">As with the RX1, you'll still be able to snag the RX100 for some time to come. And for many photographers, last year's model may be the best pick -- the RX100M2, while a bit more feature-packed, retails for a $100 more than its predecessor, with a $750 MSRP. The RX1R, however, maintains the same pricing as the RX1, at $2,799. Both cameras, which you can check out now in the hands-on gallery below, are expected in stores by the middle of July.<div class="postgallery"><p><strong>Gallery: <a href="http://www.engadget.com/photos/sony-cyber-shot-rx1r-and-rx100m2-hands-on/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">Sony Cyber-shot RX1R and RX100M2 hands-on</a></strong></p><a href="http://www.engadget.com/photos/sony-cyber-shot-rx1r-and-rx100m2-hands-on/5992395?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget"><img src="http://www.blogcdn.com/www.engadget.com/media/2013/06/dsc04486_thumbnail.jpg" alt="" title="" /></a><a href="http://www.engadget.com/photos/sony-cyber-shot-rx1r-and-rx100m2-hands-on/5992396?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget"><img src="http://www.blogcdn.com/www.engadget.com/media/2013/06/dsc04488_thumbnail.jpg" alt="" title="" /></a><a href="http://www.engadget.com/photos/sony-cyber-shot-rx1r-and-rx100m2-hands-on/5992397?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget"><img src="http://www.blogcdn.com/www.engadget.com/media/2013/06/dsc04500_thumbnail.jpg" alt="" title="" /></a><a href="http://www.engadget.com/photos/sony-cyber-shot-rx1r-and-rx100m2-hands-on/5992398?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget"><img src="http://www.blogcdn.com/www.engadget.com/media/2013/06/dsc04507_thumbnail.jpg" alt="" title="" /></a><a href="http://www.engadget.com/photos/sony-cyber-shot-rx1r-and-rx100m2-hands-on/5992399?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget"><img src="http://www.blogcdn.com/www.engadget.com/media/2013/06/dsc04513_thumbnail.jpg" alt="" title="" /></a></div></p>
+<p>Filed under: <a href="http://www.engadget.com/category/cameras/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget" rel="tag">Cameras</a>, <a href="http://www.engadget.com/category/sony/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget" rel="tag">Sony</a></p>
+<p><strong><a href="http://www.engadget.com/2013/06/27/sony-rx100m2-rx1-hands-on/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget#comments">Comments</a></strong></p>
+
+
+]]>
+</description>
+<category>camera</category><category>cameras</category><category>cyber-shot</category><category>hands-on</category><category>rx1</category><category>rx100</category><category>rx100m2</category><category>rx1r</category><category>sony</category>
+
+<dc:creator><![CDATA[Zach Honig]]></dc:creator>
+<pubDate>Thu, 27 Jun 2013 00:00:00 -0400</pubDate>
+<dc:identifier>21|20636766</dc:identifier>
+
+</item>
+
+<item>
+<title><![CDATA[PSA: You can now use your Amazon account to log into Lovefilm]]></title>
+<link>http://www.engadget.com/2013/06/26/psa-you-can-now-use-your-amazon-account-to-log-into-lovefilm/?utm_medium=feed&amp;utm_source=Feed_Classic&amp;utm_campaign=Engadget</link>
+<guid isPermaLink="false">http://www.engadget.com/2013/06/26/psa-you-can-now-use-your-amazon-account-to-log-into-lovefilm/</guid>
+<comments>http://www.engadget.com/2013/06/26/psa-you-can-now-use-your-amazon-account-to-log-into-lovefilm/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget#comments</comments>
+<description>
+<![CDATA[
+<p class="image-container" style="text-align: center;"><a href="http://www.engadget.com/2013/06/26/psa-you-can-now-use-your-amazon-account-to-log-into-lovefilm/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget"><img alt="PSA You can now use your Amazon account to log into LOVEFiLM" data-src-height="248" data-src-width="619" src="http://www.blogcdn.com/www.engadget.com/media/2013/06/lovefilm-amazon-signin-2013-06-26-01.jpg" /></a></p>
+
+<p>You might be able to knock one password off your <a href="http://www.engadget.com/2013/01/16/lastpass-windows-phone-update/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">list</a>, as you now have the option to log in to your <a href="http://www.engadget.com/2013/06/17/disney-on-demand-launches-on-amazons-lovefilm-today/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">Lovefilm</a> account using Amazon credentials. The changeover is part of the online retail giant's recently announced <a href="http://www.engadget.com/2013/05/29/amazon-login-service-password/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">Login With Amazon</a> initiative, intended to let you use a universal ID for its other websites <em>or</em> those of third party developers. To switch, you'll need to follow the link at the source and enter both your Lovefilm and Amazon details, and may need to re-enter payment info as well. The company promised that your private data will remain "completely safe," and said that any rental lists, bookmarks, viewing history and <a href="http://www.engadget.com/2012/06/01/roku-slacker-radio-amazon-watchlist/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">watchlists</a> will stay put. On the off-chance you're on Lovefilm but don't have an Amazon account, the company wouldn't be adverse to your creating one at the same time, in case you fancy <a href="http://www.engadget.com/2013/06/04/the-wizard-of-oz-imax-blu-ray-3d/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">physical disc</a> media to go along with the streaming variety. That's not the only change Lovefilm users may notice however, as the service has rolled out versions of its next generation streaming app -- <a href="http://www.engadget.com/2013/05/01/amazon-updates-lovefilm-instant-HD-PS3/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">first seen on the PS3</a> -- for the Xbox 360 as well as Sony Bravia TVs, Blu-ray players and home theater systems.</p>
+<p>Filed under: <a href="http://www.engadget.com/category/home-entertainment/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget" rel="tag">Home Entertainment</a>, <a href="http://www.engadget.com/category/internet/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget" rel="tag">Internet</a>, <a href="http://www.engadget.com/category/hd/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget" rel="tag">HD</a>, <a href="http://www.engadget.com/category/amazon/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget" rel="tag">Amazon</a></p>
+<p><strong><a href="http://www.engadget.com/2013/06/26/psa-you-can-now-use-your-amazon-account-to-log-into-lovefilm/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget#comments">Comments</a></strong></p>
+
+<p><strong>Source:</strong> <a target="_blank" href="http://blog.lovefilm.com/uncategorized/log-in-to-lovefilm-with-your-amazon-account-details.html">Lovefilm</a><!--//--></p>
+]]>
+</description>
+<category>amazon</category><category>app</category><category>bravia</category><category>hdpostcross</category><category>login</category><category>loginwithamazon</category><category>Lovefilm</category><category>password</category><category>sony</category><category>update</category><category>xbox360</category>
+
+<dc:creator><![CDATA[Steve Dent]]></dc:creator>
+<pubDate>Wed, 26 Jun 2013 23:36:00 -0400</pubDate>
+<dc:identifier>21|20638779</dc:identifier>
+
+</item>
+
+<item>
+<title><![CDATA[Samsung launches 55-inch 'flawless' curved OLED TV in Korea]]></title>
+<link>http://www.engadget.com/2013/06/26/samsung-launches-55-inch-flawless-curved-oled-tv-in-korea/?utm_medium=feed&amp;utm_source=Feed_Classic&amp;utm_campaign=Engadget</link>
+<guid isPermaLink="false">http://www.engadget.com/2013/06/26/samsung-launches-55-inch-flawless-curved-oled-tv-in-korea/</guid>
+<comments>http://www.engadget.com/2013/06/26/samsung-launches-55-inch-flawless-curved-oled-tv-in-korea/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget#comments</comments>
+<description>
+<![CDATA[
+<p class="image-container" style="text-align: center;"><img alt="Samsung launches 55inch 'flawless' curved OLED TV in Korea" data-src-height="424" data-src-width="619" src="http://www.blogcdn.com/www.engadget.com/media/2013/06/samsung-curved-oled.jpg" /></p>
+
+<p>Just as the <a href="http://www.engadget.com/2013/06/20/samsung-reportedly-shipping-55-inch-oled-tv-to-korea-next-week/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">rumors</a> foretold, Samsung has announced Korean availability of a <a href="http://www.engadget.com/2013/01/08/samsung-announces-worlds-first-curved-oled-we-go-eyes-on/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">55-inch curved OLED HDTV</a>. Priced at 15 million Korean won (around $13,000) Samsung claims its "Timeless Arena" design eliminates potential for defective OLED pixels. It also reiterates the claim LG made when it launched its own <a href="http://www.engadget.com/2013/04/28/lg-curved-oled-hdtv/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">curved OLED</a> model earlier this year that keeping all parts of the screen an equal distance from the viewer makes for a better viewing experience. It also supports features found in other Samsung TVs like multi-view that lets two people watch different things at the same time thanks to 3D glasses, and the Evolution Kit CPU upgrade. There's <s>no word</s> on US availability for its <a href="http://www.engadget.com/2013/01/07/samsung-oled-hdtv-KN55F9500-/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">flat OLED HDTVs</a>, but the company also launched <a href="http://www.engadget.com/2013/05/30/samsung-65-55-inch-4k-price/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">its new 65- and 55-inch 4K TVs</a> at the same event.<div class="postgallery"><p><strong>Gallery: <a href="http://www.engadget.com/photos/samsung-worlds-first-curved-oled/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">Samsung 'world's first' curved OLED</a></strong></p><a href="http://www.engadget.com/photos/samsung-worlds-first-curved-oled/5548837?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget"><img src="http://www.blogcdn.com/www.engadget.com/media/2013/01/dsc03866_thumbnail.jpg" alt="" title="" /></a><a href="http://www.engadget.com/photos/samsung-worlds-first-curved-oled/5548838?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget"><img src="http://www.blogcdn.com/www.engadget.com/media/2013/01/dsc03867_thumbnail.jpg" alt="" title="" /></a><a href="http://www.engadget.com/photos/samsung-worlds-first-curved-oled/5548839?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget"><img src="http://www.blogcdn.com/www.engadget.com/media/2013/01/dsc03868_thumbnail.jpg" alt="" title="" /></a><a href="http://www.engadget.com/photos/samsung-worlds-first-curved-oled/5548840?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget"><img src="http://www.blogcdn.com/www.engadget.com/media/2013/01/dsc03869_thumbnail.jpg" alt="" title="" /></a><a href="http://www.engadget.com/photos/samsung-worlds-first-curved-oled/5548841?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget"><img src="http://www.blogcdn.com/www.engadget.com/media/2013/01/dsc03870_thumbnail.jpg" alt="" title="" /></a></div></p>
+
+<p><strong>Update</strong>: According to <em>Reuters</em>, Samsung says it has no plans to offer a flat OLED HDTV in 2013, and this curved model will ship outside Korea in July.</p>
+<p>Filed under: <a href="http://www.engadget.com/category/displays/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget" rel="tag">Displays</a>, <a href="http://www.engadget.com/category/home-entertainment/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget" rel="tag">Home Entertainment</a>, <a href="http://www.engadget.com/category/hd/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget" rel="tag">HD</a>, <a href="http://www.engadget.com/category/samsung/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget" rel="tag">Samsung</a></p>
+<p><strong><a href="http://www.engadget.com/2013/06/26/samsung-launches-55-inch-flawless-curved-oled-tv-in-korea/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget#comments">Comments</a></strong></p>
+
+<p><strong>Source:</strong> <a target="_blank" href="http://global.samsungtomorrow.com/?p=25357">Samsung Tomorrow</a><!--//--></p>
+]]>
+</description>
+<category>55-inch</category><category>curvedoled</category><category>hdpostcross</category><category>hdtv</category><category>korea</category><category>oled</category><category>samsung</category>
+
+<dc:creator><![CDATA[Richard Lawler]]></dc:creator>
+<pubDate>Wed, 26 Jun 2013 22:44:00 -0400</pubDate>
+<dc:identifier>21|20640570</dc:identifier>
+
+</item>
+
+<item>
+<title><![CDATA[Twitter wants to make a 'DVR mode' for live TV events, offer delayed Twitter streams]]></title>
+<link>http://www.engadget.com/2013/06/26/twitter-wants-to-make-a-dvr-mode-for-live-tv-events-offer-del/?utm_medium=feed&amp;utm_source=Feed_Classic&amp;utm_campaign=Engadget</link>
+<guid isPermaLink="false">http://www.engadget.com/2013/06/26/twitter-wants-to-make-a-dvr-mode-for-live-tv-events-offer-del/</guid>
+<comments>http://www.engadget.com/2013/06/26/twitter-wants-to-make-a-dvr-mode-for-live-tv-events-offer-del/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget#comments</comments>
+<description>
+<![CDATA[
+<p class="image-container" style="text-align: center;"><a href="http://www.engadget.com/2013/06/26/twitter-wants-to-make-a-dvr-mode-for-live-tv-events-offer-del/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget"><img alt="" src="http://www.blogcdn.com/www.engadget.com/media/2013/04/gy6x9artgu06uw55s5fg.jpg" /></a></p>
+
+<p>Social media is very much about keeping up with what's happening <em>right now</em> -- but not everybody <a href="http://www.engadget.com/2013/06/11/comcast-x2-platform/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">consumes live media</a> simultaneously. What happens when you watch a time-shifted <a href="http://www.engadget.com/2013/05/20/sky-sports-ipad-champions-league/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">sporting event</a> four hours late, but still want to see what your peers had to say in the heat of the moment? Twitter CEO <a href="http://www.engadget.com/2010/10/04/dick-costolo-named-new-twitter-ceo-evan-williams-to-focus-on-pr/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">Dick Costolo</a> has an idea: social media DVR. Speaking at a moderated panel at at the Center for Technology Innovation, Costolo envisioned a system that would allow users to jump back in time and look at a snapshot of the social network at a specific moment.</p>
+
+<p>"It would be nice to see things like a graphic of spikes in the conversation," he said. "And be able to scroll back to that time and see what happened at that particular moment." The CEO continued to suggest that such a feature could be designed around planned events, describing it as "Twitter in a DVR mode." Although it was suggested that these features are in testing, Costolo stopped short of saying if they were actually something users could expect to see soon. Naturally, we reached out to the company for further comment, but haven't heard back just yet. Still, it's at least clear that the company hasn't abandoned its <a href="http://www.engadget.com/2013/02/05/twitter-acquires-bluefin-labs-social-tv/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">television-based ambitions</a>.</p>
+<p>Filed under: <a href="http://www.engadget.com/category/home-entertainment/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget" rel="tag">Home Entertainment</a>, <a href="http://www.engadget.com/category/internet/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget" rel="tag">Internet</a>, <a href="http://www.engadget.com/category/hd/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget" rel="tag">HD</a></p>
+<p><strong><a href="http://www.engadget.com/2013/06/26/twitter-wants-to-make-a-dvr-mode-for-live-tv-events-offer-del/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget#comments">Comments</a></strong></p>
+
+<p><strong>Source:</strong> <a target="_blank" href="http://techcrunch.com/2013/06/26/twitter-is-experimenting-with-new-live-events-platform-dvr-mode-for-using-twitter-with-tv-more/">TechCrunch</a><!--//--></p>
+]]>
+</description>
+<category>dvr</category><category>hdpostcross</category><category>social media</category><category>SocialMedia</category><category>twitter</category>
+
+<dc:creator><![CDATA[Sean Buckley]]></dc:creator>
+<pubDate>Wed, 26 Jun 2013 22:26:00 -0400</pubDate>
+<dc:identifier>21|20640542</dc:identifier>
+
+</item>
+
+<item>
+<title><![CDATA[DirecTV GenieGo takes the fight to Sling, brings TV streaming anywhere on PC and iOS]]></title>
+<link>http://www.engadget.com/2013/06/26/directv-geniego-live-streaming-tv-anywhere/?utm_medium=feed&amp;utm_source=Feed_Classic&amp;utm_campaign=Engadget</link>
+<guid isPermaLink="false">http://www.engadget.com/2013/06/26/directv-geniego-live-streaming-tv-anywhere/</guid>
+<comments>http://www.engadget.com/2013/06/26/directv-geniego-live-streaming-tv-anywhere/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget#comments</comments>
+<description>
+<![CDATA[
+<p class="image-container" style="text-align: center;"><a href="http://www.engadget.com/2013/06/26/directv-geniego-adds-live-streaming-anywhere-on-pc-and-ios-take/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget"><img alt="DirecTV GenieGo adds live streaming anywhere on PC and iOS, takes on Sling directly" data-src-height="367" data-src-width="620" src="http://www.blogcdn.com/www.engadget.com/media/2013/06/directv-geniego.jpg" /></a></p>
+
+<p>DirecTV recently switched the name of its <a href="http://www.engadget.com/2011/10/06/directv-nomad-is-ready-to-launch-transcodes-dvred-shows-for-mob/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">Nomad transcoding device</a> to GenieGo to match its <a href="http://www.engadget.com/2012/12/29/directv-genie-whole-home-dvr-review/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">new DVRs</a>, a change we first noticed <a href="http://www.engadget.com/2013/06/01/directv-geniego-app-arrives-for-android-viewers/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">on its Android app</a>. On Windows PC and iOS the apps are about to get a new update that changes the name and lets users stream video from their DVRs over WiFi even when they're away from home (Mac and Android support is due later in the year.) Previously, it allowed users to stream live and recorded TV, or download recorded TV to a mobile device for viewing offline, but Slingbox-style streaming of live or recorded TV anywhere is new, and brings it closer to the device <a href="http://www.engadget.com/2011/08/26/directvs-nomad-teaser-page-suggests-a-slingbox-competitor-but/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">we thought it could be</a> when it launched. <em>Solid Signal</em> and <em>DBSTalk</em> report the incoming update (not live yet, but it should pop up tomorrow) is easy to use, letting users stream recordings, start a recording so it can stream or remotely setting up the transcoder to make a mobile copy users can download once they get home. Satellite TV competitor Dish has brought <a href="http://www.engadget.com/2013/01/07/dish-hopper-sling/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">deeper integration of Sling into its new Hopper DVRs</a>, and now DirecTV has its own in-house solution, anyone thinking of switching sides?</p>
+<p>Filed under: <a href="http://www.engadget.com/category/home-entertainment/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget" rel="tag">Home Entertainment</a>, <a href="http://www.engadget.com/category/hd/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget" rel="tag">HD</a>, <a href="http://www.engadget.com/category/mobile/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget" rel="tag">Mobile</a></p>
+<p><strong><a href="http://www.engadget.com/2013/06/26/directv-geniego-live-streaming-tv-anywhere/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget#comments">Comments</a></strong></p>
+
+<p><strong>Source:</strong> <a target="_blank" href="http://forums.solidsignal.com/content.php/1997">Solid Signal</a><!--//-->, <a target="_blank" href="http://www.dbstalk.com/topic/206001-geniego-remote-streaming/">DBSTalk</a><!--//-->, <a target="_blank" href="http://www.directv.com/technology/geniego?">DirecTV</a><!--//--></p>
+]]>
+</description>
+<category>apple</category><category>directv</category><category>dvr</category><category>genie</category><category>geniego</category><category>hdpostcross</category><category>ios</category><category>mobilepostcross</category><category>nomad</category><category>pc</category><category>sling</category><category>slingbox</category><category>streaming</category>
+
+<dc:creator><![CDATA[Richard Lawler]]></dc:creator>
+<pubDate>Wed, 26 Jun 2013 21:55:00 -0400</pubDate>
+<dc:identifier>21|20640533</dc:identifier>
+
+</item>
+
+<item>
+<title><![CDATA[T-Mobile leak hints Lumia 925 and Xperia Z may launch on July 17th]]></title>
+<link>http://www.engadget.com/2013/06/26/t-mobile-leak-hints-lumia-925-xperia-z-may-launch-on-july-17th/?utm_medium=feed&amp;utm_source=Feed_Classic&amp;utm_campaign=Engadget</link>
+<guid isPermaLink="false">http://www.engadget.com/2013/06/26/t-mobile-leak-hints-lumia-925-xperia-z-may-launch-on-july-17th/</guid>
+<comments>http://www.engadget.com/2013/06/26/t-mobile-leak-hints-lumia-925-xperia-z-may-launch-on-july-17th/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget#comments</comments>
+<description>
+<![CDATA[
+<p class="image-container" style="text-align: center;"><a href="http://www.engadget.com/2013/06/26/t-mobile-leak-hints-lumia-925-xperia-z-may-launch-on-july-17th/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget"><img alt="TMobile leak hints Lumia 925, Xperia Z may launch on July 17th" data-src-height="340" data-src-width="620" src="http://www.blogcdn.com/www.engadget.com/media/2013/06/t-mobile-lumia-925-xperia-z-july-17-rumor.jpg" /></a></p>
+
+<p>T-Mobile customers may have to sit tight for a little while longer if they're planning to pick up a <a href="http://www.engadget.com/2013/06/15/nokia-lumia-925-review/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">Nokia Lumia 925</a> or <a href="http://www.engadget.com/2013/06/18/t-mobile-sony-xperia-z/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">Sony Xperia Z</a>. <em>TmoNews</em> has reportedly obtained a roadmap from the <a href="http://www.engadget.com/2013/03/26/t-mobiles-uncarrier-event-roundup/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">UnCarrier</a> that has the two smartphones launching on July 17th alongside an unidentified (though likely budget-oriented) handset. While pricing isn't mentioned for the Xperia Z, the Lumia 925 is expected to cost $100 down with a $579 full price. The apparent leak gives us a date to mark on our calendars, although we won't base our lives around it -- carriers tend to change schedules <a href="http://www.engadget.com/2012/06/19/sprint-warns-a-little-behind-on-samung-galaxy-s-iii/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">at the last minute</a>, after all.</p>
+<p>Filed under: <a href="http://www.engadget.com/category/cellphones/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget" rel="tag">Cellphones</a>, <a href="http://www.engadget.com/category/mobile/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget" rel="tag">Mobile</a>, <a href="http://www.engadget.com/category/sony/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget" rel="tag">Sony</a>, <a href="http://www.engadget.com/category/nokia/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget" rel="tag">Nokia</a>, <a href="http://www.engadget.com/category/t-mobile/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget" rel="tag">T-Mobile</a></p>
+<p><strong><a href="http://www.engadget.com/2013/06/26/t-mobile-leak-hints-lumia-925-xperia-z-may-launch-on-july-17th/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget#comments">Comments</a></strong></p>
+
+<p><strong>Source:</strong> <a href="http://www.tmonews.com/2013/06/t-mobile-roadmap-highlights-sony-xperia-z-lumia-925-release-date-july-14th-major-release/" target="_blank">TmoNews</a><!--//--></p>
+]]>
+</description>
+<category>android</category><category>leak</category><category>lumia925</category><category>minipost</category><category>mobilepostcross</category><category>mobilepostmini</category><category>nokia</category><category>smartphone</category><category>sony</category><category>t-mobile</category><category>windowsphone</category><category>wireless</category><category>xperiaz</category>
+
+<dc:creator><![CDATA[Jon Fingas]]></dc:creator>
+<pubDate>Wed, 26 Jun 2013 21:26:00 -0400</pubDate>
+<dc:identifier>21|20640441</dc:identifier>
+
+</item>
+
+<item>
+<title><![CDATA[Engadget HD Podcast 355 - 06.26.13]]></title>
+<link>http://www.engadget.com/2013/06/26/engadget-hd-podcast-355-06-26-13/?utm_medium=feed&amp;utm_source=Feed_Classic&amp;utm_campaign=Engadget</link>
+<guid isPermaLink="false">http://www.engadget.com/2013/06/26/engadget-hd-podcast-355-06-26-13/</guid>
+<comments>http://www.engadget.com/2013/06/26/engadget-hd-podcast-355-06-26-13/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget#comments</comments>
+<description>
+<![CDATA[
+<p class="image-container" style="text-align: center;"><a href="http://www.engadget.com/2013/06/26/engadget-hd-podcast-355-06-26-13/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget"><img alt="Engadget HD Podcast 347 - 04.30.13" src="http://www.blogcdn.com/www.engadget.com/media/2012/12/eng-podcast-hd-620_620x340.jpg" /></a></p>
+
+<p>Okay, we're day a late, but we're not $50 dollars short since Richard avoided the <a href="http://www.engadget.com/2013/06/18/world-war-z-mega-ticket-trial-brings-early-screenings-bonuses/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">World War Z 'Mega Ticket.'</a> That much and only a small popcorn? No, thanks. Despite seeing the movie twice for regular price, however, Ben is still convinced that Richard's the guy who hates every movie and loves every TV show. We'll let you decide by tuning to this week's episode of the Engadget Podcast below.</p>
+
+<p><strong>Host</strong><strong>s</strong>: Ben Drawbaugh (<a href="http://www.twitter.com/bjdraw">@bjdraw</a>), Richard Lawler (<a href="http://twitter.com/rjcc">@rjcc</a>)</p>
+
+<p><strong>Producer</strong>: Joe Pollicino (<a href="http://twitter.com/akaTRENT">@akaTRENT</a>)</p>
+
+<p><strong>Hear the podcast</strong></p>
+<object -flash="" application="" data="http://www.weblogsinc.com/media/audio_player.swf" height="100" type="application/x-shockwave-flash" width="330" x-shockwave=""><param name="movie" value="http://www.weblogsinc.com/media/audio_player.swf" /><param name="FlashVars" value="soundFile=http://www.engadget.com/podcasts/EngadgetHD_Podcast_355.mp3" /><param name="quality" value="high" /><param name="menu" value="false" /><param name="wmode" value="transparent" /></object>
+<p>Filed under: <a href="http://www.engadget.com/category/podcasts/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget" rel="tag">Podcasts</a>, <a href="http://www.engadget.com/category/hd/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget" rel="tag">HD</a></p>
+<p><strong><a href="http://www.engadget.com/2013/06/26/engadget-hd-podcast-355-06-26-13/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget#comments">Comments</a></strong></p>
+
+
+]]>
+</description>
+<category>355</category><category>hd podcast</category><category>HdPodcast</category><category>hdpostcross</category><category>hdpostmini</category><category>minipost</category><category>podcast</category><category>podcasts</category>
+<enclosure url="http://www.engadget.com/podcasts/EngadgetHD_Podcast_355.mp3" length="37822736" type="audio/mpeg"/>
+<dc:creator><![CDATA[Joe Pollicino]]></dc:creator>
+<pubDate>Wed, 26 Jun 2013 20:50:00 -0400</pubDate>
+<dc:identifier>21|20640299</dc:identifier>
+<itunes:subtitle>Engadget HD Podcast 355</itunes:subtitle><itunes:author>Ben Drawbaugh, Richard Lawler</itunes:author><itunes:duration>53:40</itunes:duration><itunes:keywords>podcasts</itunes:keywords>
+</item>
+
+<item>
+<title><![CDATA[Engadget + gdgt NYC wrap-up]]></title>
+<link>http://www.engadget.com/2013/06/26/engadget-gdgt-wrap-up/?utm_medium=feed&amp;utm_source=Feed_Classic&amp;utm_campaign=Engadget</link>
+<guid isPermaLink="false">http://www.engadget.com/2013/06/26/engadget-gdgt-wrap-up/</guid>
+<comments>http://www.engadget.com/2013/06/26/engadget-gdgt-wrap-up/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget#comments</comments>
+<description>
+<![CDATA[
+<p class="image-container" style="text-align: center;"><img alt="Image" data-src-height="413" data-src-width="619" src="http://www.blogcdn.com/www.engadget.com/media/2013/06/meetup2013-06-2418-03-03600.jpg" /></p>
+
+<p>Well, that's fun. We've wrapped up Engadget and gdgt's first-ever combined <a href="http://www.engadget.com/2013/06/24/engadget-gdgt-nyc-liveblog/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">New York City event</a>, and boy howdy did we have a heck of a night. A whole bunch of readers braved the heatwave to queue up hours in advance, forming a line that snaked around the block. When the doors opened, they were greeted with gear-packed event space, including lounges from Sony and Samsung and booths from companies like Toshiba, Qualcomm, Nokia and Sling, plus some smaller outfits like our first-ever Insert Coin winner, <a href="http://www.engadget.com/2013/06/24/ziphius-aquatic-drone-kickstarter-hands-on/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">Ziphius</a>.</p>
+
+<p>The event also featured panels throughout the night, including conversations with Samsung Mobile VP Nick DiCarlo and Sony Electronics senior manager, Ray Hartjen, plus a roundtable discussion on the state of the industry featuring Jordan Crook from <em>TechCrunch</em>, Kevin Tofel from <em>GigaOm</em> and Harry McCracken from <em>Time</em>. IK Multimedia closed things out with performances by prog band Sound of Contact and Living Color leader Vernon Reid. All in all, not a bad night, if we do say so ourselves. We can't wait to do it again!<div class="postgallery"><p><strong>Gallery: <a href="http://www.engadget.com/photos/engadget-gdgt-nyc-wrap-up/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">Engadget + gdgt NYC wrap-up</a></strong></p><a href="http://www.engadget.com/photos/engadget-gdgt-nyc-wrap-up/5993492?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget"><img src="http://www.blogcdn.com/www.engadget.com/media/2013/06/meetup2013-06-2416-17-05800_thumbnail.jpg" alt="" title="" /></a><a href="http://www.engadget.com/photos/engadget-gdgt-nyc-wrap-up/5993493?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget"><img src="http://www.blogcdn.com/www.engadget.com/media/2013/06/meetup2013-06-2416-17-12800_thumbnail.jpg" alt="" title="" /></a><a href="http://www.engadget.com/photos/engadget-gdgt-nyc-wrap-up/5993494?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget"><img src="http://www.blogcdn.com/www.engadget.com/media/2013/06/meetup2013-06-2416-23-13800_thumbnail.jpg" alt="" title="" /></a><a href="http://www.engadget.com/photos/engadget-gdgt-nyc-wrap-up/5993495?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget"><img src="http://www.blogcdn.com/www.engadget.com/media/2013/06/meetup2013-06-2416-38-24800_thumbnail.jpg" alt="" title="" /></a><a href="http://www.engadget.com/photos/engadget-gdgt-nyc-wrap-up/5993496?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget"><img src="http://www.blogcdn.com/www.engadget.com/media/2013/06/meetup2013-06-2416-41-25800_thumbnail.jpg" alt="" title="" /></a></div></p>
+
+<p><strong><a href="http://www.engadget.com/2013/06/26/engadget-gdgt-wrap-up/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget#comments">Comments</a></strong></p>
+
+
+]]>
+</description>
+
+
+<dc:creator><![CDATA[Brian Heater]]></dc:creator>
+<pubDate>Wed, 26 Jun 2013 20:11:00 -0400</pubDate>
+<dc:identifier>21|20640388</dc:identifier>
+
+</item>
+
+<item>
+<title><![CDATA[The Daily Roundup for 06.26.2013]]></title>
+<link>http://www.engadget.com/2013/06/26/the-daily-roundup-for-06-26-2013/?utm_medium=feed&amp;utm_source=Feed_Classic&amp;utm_campaign=Engadget</link>
+<guid isPermaLink="false">http://www.engadget.com/2013/06/26/the-daily-roundup-for-06-26-2013/</guid>
+<comments>http://www.engadget.com/2013/06/26/the-daily-roundup-for-06-26-2013/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget#comments</comments>
+<description>
+<![CDATA[
+<p><em>You might say the day is never really done in consumer technology news. Your workday, however, hopefully draws to a close at some point. This is the Daily Roundup on Engadget, a quick peek back at the top headlines for the past 24 hours -- all handpicked by the editors here at the site. Click on through the break, and enjoy.</em></p>
+<!-- Content -->
+
+<p class="image-container" style="text-align: center;"><a href="http://www.engadget.com/2013/06/26/the-daily-roundup-for-06-26-2013/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget"><img alt="DNP The Daily RoundUp" data-src-height="200" data-src-width="620" src="http://www.blogcdn.com/www.engadget.com/media/2012/11/dailyroundup4.png" /></a></p>
+<p>Filed under: <a href="http://www.engadget.com/category/misc/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget" rel="tag">Misc</a>, <a href="http://www.engadget.com/category/microsoft/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget" rel="tag">Microsoft</a>, <a href="http://www.engadget.com/category/google/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget" rel="tag">Google</a></p>
+<p><strong><a href="http://www.engadget.com/2013/06/26/the-daily-roundup-for-06-26-2013/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget#comments">Comments</a></strong></p>
+
+
+]]>
+</description>
+<category>8xt</category><category>android</category><category>flipboard</category><category>google</category><category>gs4</category><category>microsoft</category><category>nvidia</category><category>sharp</category><category>tdr</category><category>windows 8.1</category><category>Windows8.1</category>
+
+<dc:creator><![CDATA[Andy Bowen]]></dc:creator>
+<pubDate>Wed, 26 Jun 2013 19:30:00 -0400</pubDate>
+<dc:identifier>21|20640393</dc:identifier>
+
+</item>
+
+<item>
+<title><![CDATA[This is the Modem World: Internet radio is inhuman]]></title>
+<link>http://www.engadget.com/2013/06/26/internet-radio-is-inhuman/?utm_medium=feed&amp;utm_source=Feed_Classic&amp;utm_campaign=Engadget</link>
+<guid isPermaLink="false">http://www.engadget.com/2013/06/26/internet-radio-is-inhuman/</guid>
+<comments>http://www.engadget.com/2013/06/26/internet-radio-is-inhuman/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget#comments</comments>
+<description>
+<![CDATA[
+<p><em>Each week <a href="http://www.engadget.com/editor/joshua-fruhlinger?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">Joshua Fruhlinger</a> contributes <a href="http://engadget.com/tag/thisisthemodemworld?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget">This is the Modem World</a>, a column dedicated to exploring the culture of consumer technology.</em></p>
+
+<p><img alt="DNP This is the Modem World Internet radio is inhuman" data-src-height="500" data-src-width="620" src="http://www.blogcdn.com/www.engadget.com/media/2013/06/eng-modern-world2-1372281257.jpg" /></p>
+
+<p>I gripped the handset, twirling the coiled wire around my wrist, listening for a ring tone. Instead, a busy signal triggered an autonomous twitch reaction in my teenage hand: hang up, wait for dial tone, hit redial, listen for ring tone. Again. Again.</p>
+<p>Filed under: <a href="http://www.engadget.com/category/internet/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget" rel="tag">Internet</a></p>
+<p><strong><a href="http://www.engadget.com/2013/06/26/internet-radio-is-inhuman/?utm_source=Feed_Classic&amp;utm_medium=feed&amp;utm_campaign=Engadget#comments">Comments</a></strong></p>
+
+
+]]>
+</description>
+<category>column</category><category>internet radio</category><category>InternetRadio</category><category>joshuafrughlinger</category><category>modemworld</category><category>music</category><category>pandora</category><category>rdio</category><category>rhapsody</category>
+
+<dc:creator><![CDATA[Joshua Fruhlinger]]></dc:creator>
+<pubDate>Wed, 26 Jun 2013 19:01:00 -0400</pubDate>
+<dc:identifier>21|20640354</dc:identifier>
+
+</item>
+</channel></rss>

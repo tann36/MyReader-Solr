@@ -1,0 +1,180 @@
+<dataConfig>
+    <dataSource name="a" type="URLDataSource" />
+        <document>
+                <entity name="slashdot"
+						pk="link"
+						url="http://rss.slashdot.org/Slashdot/slashdot"
+						processor="XPathEntityProcessor"
+						forEach="/rss/channel/item"
+						transformer="DateFormatTransformer">
+					
+						<field column="source" xpath="/rss/channel/title" commonField="true" />
+						<field column="source-link" xpath="/rss/channel/link" commonField="true" />
+						<field column="subject" xpath="/rss/channel/subject" commonField="true" />
+				
+						<field column="title" xpath="/rss/channel/item/title" />
+						<field column="link" xpath="/rss/channel/item/link" />
+						<field column="description" xpath="/rss/channel/item/description" />
+						<field column="author" xpath="/rss/channel/item/creator" />
+						<field column="category" xpath="/rss/channel/item/subject" />
+						<field column="date" xpath="/rss/channel/item/date" dateTimeFormat="yyyy-MM-dd'T'HH:mm:ss" />
+						<field column="slash-department" xpath="/rss/channel/item/department" />
+						<field column="slash-section" xpath="/rss/channel/item/section" />
+						<field column="slash-comments" xpath="/rss/channel/item/comments" />
+				</entity>
+                <entity name="engadget"
+                        pk="link"
+                        url="http://www.engadget.com/rss.xml"
+                        processor="XPathEntityProcessor"
+                        forEach="/rss/channel | /rss/channel/item"
+                        transformer="DateFormatTransformer">
+
+                        <field column="source"       xpath="/rss/channel/title"   commonField="true" />
+                        <field column="source-link"  xpath="/rss/channel/link"    commonField="true" />
+                        <field column="subject"      xpath="/rss/channel/subject" commonField="true" />
+
+                        <field column="title"        xpath="/rss/channel/item/title" />
+                        <field column="link"         xpath="/rss/channel/item/link" />
+                        <field column="description"  xpath="/rss/channel/item/description" />
+                        <field column="item-subject" xpath="/rss/channel/item/subject" />
+                        <field column="author" xpath="/rss/channel/item/creator" />
+                        <field column="category" xpath="/rss/channel/item/category" />
+
+                        <field column="date" xpath="/rss/channel/item/pubDate" dateTimeFormat="EEE, d MMM yyyy HH:mm:ss Z" />
+                </entity>
+				<entity name="fastcompany"
+                        pk="link"
+                        url="http://www.fastcompany.com/rss.xml"
+                        processor="XPathEntityProcessor"
+                        forEach="/rss/channel | /rss/channel/item"
+                        transformer="DateFormatTransformer">
+
+                        <field column="source"       xpath="/rss/channel/title"   commonField="true" />
+                        <field column="source-link"  xpath="/rss/channel/link"    commonField="true" />
+                        <field column="subject"      xpath="/rss/channel/subject" commonField="true" />
+						<field column="source-desc"      xpath="/rss/channel/description" commonField="true" />
+
+                        <field column="title"        xpath="/rss/channel/item/title" />
+                        <field column="link"         xpath="/rss/channel/item/link" />
+                        <field column="description"  xpath="/rss/channel/item/description" />
+						<field column="date" xpath="/rss/channel/item/pubDate" dateTimeFormat="EEE, d MMM yyyy HH:mm:ss Z" />
+                        <field column="author" xpath="/rss/channel/item/creator" />
+                </entity>
+				<entity name="venturebeat"
+                        pk="link"
+                        url="http://venturebeat.com/feed/"
+                        processor="XPathEntityProcessor"
+                        forEach="/rss/channel | /rss/channel/item"
+                        transformer="DateFormatTransformer">
+
+                        <field column="source"       xpath="/rss/channel/title"   commonField="true" />
+                        <field column="source-link"  xpath="/rss/channel/link"    commonField="true" />
+                        <field column="subject"      xpath="/rss/channel/subject" commonField="true" />
+						<field column="source-desc"      xpath="/rss/channel/description" commonField="true" />
+
+                        <field column="title"        xpath="/rss/channel/item/title" />
+                        <field column="link"         xpath="/rss/channel/item/link" />
+                        <field column="description"  xpath="/rss/channel/item/encoded" />
+						<field column="date" xpath="/rss/channel/item/pubDate" dateTimeFormat="EEE, d MMM yyyy HH:mm:ss Z" />
+                        <field column="author" xpath="/rss/channel/item/creator" />
+						<field column="category" xpath="/rss/channel/item/category" />
+                </entity>
+				<entity name="gizmodo"
+                        pk="link"
+                        url="http://feeds.gawker.com/gizmodo/full"
+                        processor="XPathEntityProcessor"
+                        forEach="/rss/channel | /rss/channel/item"
+                        transformer="DateFormatTransformer">
+
+                        <field column="source"       xpath="/rss/channel/title"   commonField="true" />
+                        <field column="source-link"  xpath="/rss/channel/link"    commonField="true" />
+                        <field column="subject"      xpath="/rss/channel/subject" commonField="true" />
+						<field column="source-desc"      xpath="/rss/channel/description" commonField="true" />
+
+                        <field column="title"        xpath="/rss/channel/item/title" />
+                        <field column="link"         xpath="/rss/channel/item/link" />
+                        <field column="description"  xpath="/rss/channel/item/description" />
+						<field column="date" xpath="/rss/channel/item/pubDate" dateTimeFormat="EEE, d MMM yyyy HH:mm:ss Z" />
+                        <field column="author" xpath="/rss/channel/item/creator" />
+						<field column="category" xpath="/rss/channel/item/category" />
+                </entity>
+				<entity name="lifehacker"
+                        pk="link"
+                        url="http://feeds.gawker.com/lifehacker/vip.xml"
+                        processor="XPathEntityProcessor"
+                        forEach="/rss/channel | /rss/channel/item"
+                        transformer="DateFormatTransformer">
+
+                        <field column="source"       xpath="/rss/channel/title"   commonField="true" />
+                        <field column="source-link"  xpath="/rss/channel/link"    commonField="true" />
+                        <field column="subject"      xpath="/rss/channel/subject" commonField="true" />
+						<field column="source-desc"      xpath="/rss/channel/description" commonField="true" />
+
+                        <field column="title"        xpath="/rss/channel/item/title" />
+                        <field column="link"         xpath="/rss/channel/item/link" />
+                        <field column="description"  xpath="/rss/channel/item/description" />
+						<field column="date" xpath="/rss/channel/item/pubDate" dateTimeFormat="EEE, d MMM yyyy HH:mm:ss Z" />
+                        <field column="author" xpath="/rss/channel/item/creator" />
+						<field column="category" xpath="/rss/channel/item/category" />
+                </entity>
+				<entity name="mashable"
+                        pk="link"
+                        url="http://feeds.mashable.com/Mashable?format=xml"
+                        processor="XPathEntityProcessor"
+                        forEach="/rss/channel | /rss/channel/item"
+                        transformer="DateFormatTransformer">
+
+                        <field column="source"       xpath="/rss/channel/title"   commonField="true" />
+                        <field column="source-link"  xpath="/rss/channel/link"    commonField="true" />
+                        <field column="subject"      xpath="/rss/channel/subject" commonField="true" />
+						<field column="source-desc"      xpath="/rss/channel/description" commonField="true" />
+
+                        <field column="title"        xpath="/rss/channel/item/title" />
+                        <field column="link"         xpath="/rss/channel/item/link" />
+                        <field column="description"  xpath="/rss/channel/item/description" />
+						<field column="date" xpath="/rss/channel/item/pubDate" dateTimeFormat="EEE, d MMM yyyy HH:mm:ss Z" />
+                        <field column="author" xpath="/rss/channel/item/creator" />
+						<field column="category" xpath="/rss/channel/item/category" />
+                </entity>
+				<entity name="arstechnica"
+                        pk="link"
+                        url="http://feeds.arstechnica.com/arstechnica/index"
+                        processor="XPathEntityProcessor"
+                        forEach="/rss/channel | /rss/channel/item"
+                        transformer="DateFormatTransformer">
+
+                        <field column="source"       xpath="/rss/channel/title"   commonField="true" />
+                        <field column="source-link"  xpath="/rss/channel/link"    commonField="true" />
+                        <field column="subject"      xpath="/rss/channel/subject" commonField="true" />
+						<field column="source-desc"      xpath="/rss/channel/description" commonField="true" />
+
+                        <field column="title"        xpath="/rss/channel/item/title" />
+                        <field column="link"         xpath="/rss/channel/item/link" />
+                        <field column="description"  xpath="/rss/channel/item/encoded" />
+						<field column="date" xpath="/rss/channel/item/pubDate" dateTimeFormat="EEE, d MMM yyyy HH:mm:ss Z" />
+                        <field column="author" xpath="/rss/channel/item/creator" />
+						<field column="category" xpath="/rss/channel/item/category" />
+                </entity>
+				<entity name="readability"
+                        pk="link"
+                        url="http://www.readability.com/liisimotsharg/latest/feed"
+                        processor="XPathEntityProcessor"
+                        forEach="/rss/channel | /rss/channel/item"
+                        transformer="DateFormatTransformer">
+
+                        <field column="source"       xpath="/rss/channel/title"   commonField="true" />
+                        <field column="source-link"  xpath="/rss/channel/link"    commonField="true" />
+                        <field column="subject"      xpath="/rss/channel/subject" commonField="true" />
+						<field column="source-desc"      xpath="/rss/channel/description" commonField="true" />
+
+                        <field column="title"        xpath="/rss/channel/item/title" />
+                        <field column="link"         xpath="/rss/channel/item/link" />
+                        <field column="description"  xpath="/rss/channel/item/description" />
+						<field column="date" xpath="/rss/channel/item/pubDate" dateTimeFormat="EEE, d MMM yyyy HH:mm:ss Z" />
+                        <field column="author" xpath="/rss/channel/item/creator" />
+						<field column="category" xpath="/rss/channel/item/category" />
+						<field column="category" xpath="/rss/channel/item/tags" />
+                </entity>
+				
+        </document>		
+</dataConfig>

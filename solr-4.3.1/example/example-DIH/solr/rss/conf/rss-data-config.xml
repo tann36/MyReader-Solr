@@ -1,0 +1,71 @@
+<dataConfig>
+    <dataSource type="URLDataSource" />
+    <document>
+        <entity name="slashdot"
+                pk="link"
+                url="http://www.amazon.com/rss/tag/blu-ray/new/ref=tag_rsh_hl_ersn"
+                processor="XPathEntityProcessor"
+                forEach="/rss/channel/item"
+                transformer="DateFormatTransformer">
+				
+            <field column="source" xpath="/rss/channel/title" commonField="true" />
+            <field column="source-link" xpath="/rss/channel/link" commonField="true" />
+            <field column="subject" xpath="/rss/channel/subject" commonField="true" />
+			
+            <field column="title" xpath="/rss/channel/item/title" />
+            <field column="link" xpath="/rss/channel/item/link" />
+            <field column="description" xpath="/rss/channel/item/description" />
+			<field column="date" xpath="/rss/channel/item/pubDate" />
+            <field column="creator" xpath="/rss/channel/item/creator" />
+            <field column="item-subject" xpath="/rss/channel/item/subject" />
+            <field column="date" xpath="/rss/channel/item/date" dateTimeFormat="yyyy-MM-dd'T'HH:mm:ss" />
+            <field column="slash-department" xpath="/rss/channel/item/department" />
+            <field column="slash-section" xpath="/rss/channel/item/section" />
+            <field column="slash-comments" xpath="/rss/channel/item/comments" />
+        </entity>
+		
+		<!-- <dataSource type="FileDataSource" />
+		<document>
+			<!-- <entity 
+				name="f" 
+				processor="FileListEntityProcessor" 
+				baseDir="/example/exampledocs"
+				fileName="test-content.xml" 
+				recursive="true" 
+				rootEntity="false" 
+				dataSource="null">
+					<entity 
+					name="x" 
+					processor="XPathEntityProcessor" 
+					forEach="/rss/channel/item" 
+					url="${f.fileAbsolutePath}">
+						<field column="title" xpath="/rss/channel/item/title" />
+						<field column="link" xpath="/rss/channel/item/link" />
+						<field column="description" xpath="/rss/channel/item/description" />
+				
+					</entity>					
+			</entity> -->
+			
+			<entity 
+				name="wp" 
+				processor="XPathEntityProcessor" 
+				url="/example/exampledocs/test-content2.xml"
+				forEach="/rss/channel/item" >
+					
+					<field column="title" xpath="/rss/channel/item/title" />
+					<field column="link" xpath="/rss/channel/item/link" />
+					<field column="description" xpath="/rss/channel/item/description" />
+					
+					<field column="creator" xpath="/rss/channel/item/dc:creator" />
+					<field column="category" xpath="/rss/channel/item/category" />
+					<field column="pubDate" xpath="/rss/channel/item/pubDate" dateTimeFormat="yyyy-MM-dd'T'HH:mm:ss" />
+					<field column="content" xpath="/rss/channel/item/content" />
+					<field column="post_date" xpath="/rss/channel/item/wp:post_date" />
+						
+					<!-- <field column="slash-department" xpath="/rss/channel/item/department" />
+					<field column="slash-section" xpath="/rss/channel/item/section" />
+					<field column="slash-comments" xpath="/rss/channel/item/comments" /> -->
+			</entity>	 -->
+			
+		</document>
+</dataConfig>
